@@ -1,11 +1,12 @@
 {
-  "name": "sat_solver",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "BENLAGHA Mostapha",
-  "license": "ISC"
+	"name": "sat_solver",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon ./DFS.js"
+	},
+	"author": "BENLAGHA Mostapha",
+	"license": "ISC"
 }
